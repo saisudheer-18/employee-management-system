@@ -278,31 +278,6 @@ POST `/employees`
 
 ---
 
-## 📷 Screenshots
-
-```
-## 📷 Screenshots
-
-### Create Employee
-![Create Employee](https://github.com/user-attachments/assets/fb7d2fd3-22d2-4f40-86b9-d81cf473f65c)
-
----
-
-### Employee List
-![Employee List](https://github.com/user-attachments/assets/2a79e3cd-334a-4368-8cf6-880a4c02b10b)
-
----
-
-### Database
-![Database](https://github.com/user-attachments/assets/07be38ff-71e5-487a-afe4-7eb4c802a8d9)
-
----
-
-### Delete Employee
-![Delete Employee](https://github.com/user-attachments/assets/0c5affd1-a459-4fab-bbb8-223d28cdaa0f)
-
----
-
 ## 📦 .gitignore
 
 Exclude unnecessary files:
