@@ -282,15 +282,19 @@ POST `/employees`
 
 ```
 **Create Employee:**
+
 <img width="959" height="500" alt="image" src="https://github.com/user-attachments/assets/fb7d2fd3-22d2-4f40-86b9-d81cf473f65c" />
 
 **Employee List:**
+
 <img width="637" height="164" alt="image" src="https://github.com/user-attachments/assets/2a79e3cd-334a-4368-8cf6-880a4c02b10b" />
 
 **Database:**
+
 <img width="551" height="233" alt="image" src="https://github.com/user-attachments/assets/07be38ff-71e5-487a-afe4-7eb4c802a8d9" />
 
 **Delete Employee:**
+
 <img width="959" height="500" alt="image" src="https://github.com/user-attachments/assets/0c5affd1-a459-4fab-bbb8-223d28cdaa0f" />
 
 ---
