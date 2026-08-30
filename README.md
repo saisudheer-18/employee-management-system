@@ -300,9 +300,7 @@ Exclude unnecessary files:
 ---
 
 ## 👨‍💻 Author
-
-Your Name
-GitHub: https://github.com/saisudheer-18
+SAI-SUDHEER
 
 ---
 
